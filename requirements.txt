@@ -1,0 +1,6 @@
+Flask==3.0
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+Flask-Login
+psycopg2-binary
